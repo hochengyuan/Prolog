@@ -1,0 +1,20 @@
+?- main.
+> |: take apple.
+> |: take broccoli.
+> |: take crackers.
+> |: inventory.
+
+> |: go to the office.
+> |: look in desk.
+> |: take teleporter.
+> |: look in envelope.
+> |: take key.
+> |: inventory.
+
+> |: teleport to attic.
+> |: take doll.
+> |: inventory.
+
+> |: teleport to cellar.
+> |: drop the teleporter.
+> |: inventory.
