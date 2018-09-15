@@ -1,1 +1,1 @@
-It is Nami-Search Game
+It is Nani-Search Game
